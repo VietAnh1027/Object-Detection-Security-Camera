@@ -7,3 +7,6 @@
 ## Custom code
 - Model: You can change YOLO model by pass model name into self.model = YOLO("model name")
 - Sound: Put your sound alarm into source folder, remember to rename the sound to "sound.mp3"
+
+
+![image](https://github.com/user-attachments/assets/a6ea036b-c57b-4218-8a1f-d0aa33aac917)
